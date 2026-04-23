@@ -5,7 +5,7 @@
 # layout: single
 # author_profile: true
 layout: splash
-title: "Protección proactiva para entornos digitales exigentes"
+title: "Innovative cybersecurity awareness and human risk specialist"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -15,7 +15,7 @@ header:
       url: "/servicios/"
     - label: "Contacto cifrado"
       url: "/contacto/"
-excerpt: "Especialista en ciberseguridad. Auditorías, pentesting y estrategia de defensa para empresas que no pueden permitirse un fallo."
+excerpt: "Senior-level advisor with a track record of leading organization-wide cybersecurity management and awareness initiatives."
 feature_row:
   - title: "Innovación"
     excerpt: "Uso técnicas de ataque reales para proteger antes de que ocurra el daño."
